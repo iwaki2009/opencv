@@ -1,8 +1,8 @@
-## opencv
+## this project
 opencv for ubuntu
 
-###opencv.sh
+###opencv.sh  
 shell script for opencv
 
-###imageshow.cpp
+###imageshow.cpp  
 show jpg file in window
