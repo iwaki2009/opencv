@@ -1,4 +1,5 @@
 # opencv
 opencv for ubuntu
 
-sample
+##opencv.sh
+shell script for opencv
